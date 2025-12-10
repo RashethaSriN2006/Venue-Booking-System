@@ -1,1 +1,1 @@
-# Venue-Booking-System
+A Venue Booking System allows users to search, check availability, and reserve venues easily. It manages bookings, schedules, payments, and confirmations in one platform. The system helps event organizers save time, avoid conflicts, and ensure smooth, efficient venue management.
